@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="274px" height="261px" viewBox="0 0 274 261" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Icon</title>
+<svg width="400px" height="380px" viewBox="0 0 400 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icon</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.76">
-        <g id="Branding" transform="translate(-1810.000000, -643.000000)" fill-rule="nonzero">
-            <g id="Icon" transform="translate(1595.860000, 0.000000)">
-                <g transform="translate(214.960000, 643.000000)">
-                    <rect id="Rectangle" fill="#38A0FF" x="91.09" y="0.06" width="91.05" height="86.96"></rect>
-                    <path d="M83.18,0.06 L91.0599902,0.06 L91.0599902,87.06 L0.0599901634,87.06 L0.0599901634,83.27 C0.0379021869,37.3403782 37.2503812,0.0876065797 83.18,0.06 L83.18,0.06 Z" id="Path" fill="#5AACFF"></path>
-                    <path d="M0.04,87 L91.04,87 L91.04,174 L86.47,174 C38.7139377,174 1.13686838e-13,135.286062 1.13686838e-13,87.53 L1.13686838e-13,87 L0.04,87 Z" id="Path" fill="#7EBCFF"></path>
-                    <path d="M0.04,174 L91.04,174 L91.04,261 L83.18,261 C37.2464774,261 0.01,223.763523 0.01,177.83 L0.01,174 L0.04,174 Z" id="Path" fill="#9FCCFF"></path>
-                    <rect id="Rectangle" fill="#7EBCFF" x="91.09" y="173.98" width="91.05" height="86.96"></rect>
-                    <path d="M182.18,174 L273.18,174 L273.18,177.79 C273.18,223.723523 235.943523,260.96 190.01,260.96 L182.18,260.96 L182.18,174 Z" id="Path" fill="#5AACFF"></path>
-                    <path d="M182.18,87 L186.75,87 C234.498251,87.0220865 273.191049,125.741745 273.18,173.49 L273.18,174 L182.18,174 L182.18,87 Z" id="Path" fill="#38A0FF"></path>
-                    <path d="M182.18,0.06 L190.06,0.06 C235.973995,0.087602503 273.18,37.3159965 273.18,83.23 L273.18,87 L182.18,87 L182.18,0 L182.18,0.06 Z" id="Path" fill="#0089FF"></path>
-                </g>
-            </g>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.76">
+        <g id="Icon" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#6AD4DD" x="132" y="0.439252336" width="134" height="127"></rect>
+            <path d="M122.411275,0.439252336 L134,0.439252336 L134,127.439252 L0,127.439252 L0,121.762006 C0.0789356281,54.7454285 54.8565967,0.454868336 122.411275,0.439252336 L122.411275,0.439252336 Z" id="Path" fill="#8ADDE4"></path>
+            <path d="M0,125.439252 L134,125.439252 L134,252.439252 L127.277114,252.439252 C56.9839048,252.439252 0,195.897139 0,126.148908 L0,125.439252 L0,125.439252 Z" id="Path" fill="#ACE7EB"></path>
+            <path d="M1,252.581025 L135,252.581025 L135,379.439252 L123.413749,379.439252 C55.8065024,379.439252 1,325.118367 1,258.110161 L1,252.439252 L1,252.581025 Z" id="Path" fill="#CDF0F2"></path>
+            <rect id="Rectangle" fill="#ACE7EB" x="134" y="252.439252" width="134" height="127"></rect>
+            <path d="M266,252.439252 L400,252.439252 L400,258.110161 C400,290.288638 387.102875,321.149167 364.145843,343.902784 C341.188813,366.656403 310.052397,379.439252 277.586251,379.439252 L266,379.439252 L266,252.439252 L266,252.439252 Z" id="Path" fill="#8ADDE4"></path>
+            <path d="M266,125.439252 L272.722886,125.439252 C343.016097,125.439252 400,181.981365 400,251.729597 L400,252.439252 L266,252.439252 L266,125.439252 Z" id="Path" fill="#6AD4DD"></path>
+            <path d="M266,0.439252336 L277.586251,0.439252336 C345.193496,0.439252336 400,54.7601369 400,121.768344 L400,127.439252 L266,127.439252 L266,0.439252336 Z" id="Path" fill="#49CBD5"></path>
         </g>
     </g>
 </svg>
